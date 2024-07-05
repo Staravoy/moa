@@ -1,0 +1,134 @@
+@font-face {
+    font-family: 'FontSlava';
+    src: url('../../fonts/FontSlava.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FontSlava1';
+    src: url('../../fonts/FontSlavaNum.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+.title {
+    text-align: center;
+}
+
+.entry_container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.enterMeter, .enterDivision {
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.enterPlace  {
+    background-color: #CCCCCC;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid black;
+    height: 45px;
+    width: 100px;
+    margin-left: 10px;
+    font-family: 'FontSlava', bold;
+    font-size: 40px;
+    text-align: left;
+}
+
+/* Cтилі для таблиці */
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+    height: 330px;
+}
+
+.custom-table th,
+.custom-table td {
+    padding: 10px;
+    text-align: center;
+}
+
+.custom-table th {
+    border-bottom: 7px solid black;
+    /* Лінія, що відділяє заголовки стовпців */
+}
+
+.custom-table th+th,
+.custom-table td+td {
+    border-left: 7px solid black;
+    /* Лінія, що розділяє стовпчики */
+}
+
+.custom-table td {
+    border-bottom: none;
+    border-top: none;
+}
+
+.titleTable {
+    font-size: 30px;
+}
+
+/* checkbox */
+input[type=checkbox] {
+    display: none;
+}
+
+
+.checked {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    border: 4px solid black;
+    background-color: red;
+    position: relative;
+}
+
+.checked::after {
+    content: "\2713";
+    /* Юнікод для галочки */
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.unchecked {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    border: 4px solid black;
+    background-color: #CCCCCC;
+}
+
+.direction-cell {
+    
+    width: 200px;
+    /* Встановіть фіксовану ширину для комірки таблиці */
+}
+
+.direction-text {
+    display: inline-block;
+    margin-top: 0px;
+    width: 100%;
+    /* Встановіть фіксовану ширину для тексту */
+    text-align: center;
+    /* Вирівнювання тексту по центру */
+    font-size: 25px;
+    font-weight: bold;
+}

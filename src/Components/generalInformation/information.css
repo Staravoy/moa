@@ -1,0 +1,61 @@
+h3 {
+    margin-bottom: 0px;
+}
+.title {
+    text-align: center;
+    font-family: "FontSlava";
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.part1 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.circle {
+    width: 323px;
+    text-align: center;
+}
+
+.marTop {
+    margin-top: 40px;
+}
+
+.oneDegree {
+    width: 295px;
+    text-align: center;
+}
+
+.moaSm {
+    width: 322px;
+    text-align: center;
+    margin-right: 60px;
+}
+
+.part2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.stv {
+    width: 290px;
+    text-align: center;
+}
+
+.reticle {
+    width: 496px;
+    text-align: center;
+}
+
+.mrad {
+    width: 448px;
+    text-align: center;
+}
+
+.pics {
+    display: flex;
+    justify-content: center;
+}

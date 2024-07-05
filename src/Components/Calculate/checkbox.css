@@ -1,0 +1,41 @@
+body {
+    background-color: #CCCCCC;
+}
+input[type=checkbox]{
+    display: none;
+}
+
+.chekTitle {
+    margin-left: 30px;
+}
+
+.checked {
+    display: inline-block;
+    margin-left: 30px;
+    width: 35px;
+    height: 35px;
+    border: 4px solid black;
+    background-color: red;
+    position: relative;
+}
+
+.checked::after {
+    content: "\2713"; /* Юнікод для галочки */
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.unchecked {
+    margin-left: 30px;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    border: 4px solid black;
+    background-color: #CCCCCC;
+}
+

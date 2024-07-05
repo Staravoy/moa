@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'FontSlava';
+  src: url('./fonts/FontSlava.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FontSlava1';
+  src: url('./fonts/FontSlavaNum.ttf') format('ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+body {
+  background-color: #CCCCCC;
+  font-family: 'FontSlava', cursive;
+  height: 100vh;
+  margin: 0;
+}
+
+input,
+button,
+textarea,
+select {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
