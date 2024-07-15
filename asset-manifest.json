@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/moa/static/css/main.f61611a7.css",
+    "main.js": "/moa/static/js/main.1d78ff7d.js",
+    "static/js/453.23f07694.chunk.js": "/moa/static/js/453.23f07694.chunk.js",
+    "static/media/Коло.svg": "/moa/static/media/Коло.fec5c8a544fceeaaa6e5e2736376f517.svg",
+    "static/media/Кут.svg": "/moa/static/media/Кут.04d1ba2538e9f8c30879b0f0830966e0.svg",
+    "static/media/Прицільні сітки.svg": "/moa/static/media/Прицільні сітки.92987800b1b0ee4a06326785c0e7c450.svg",
+    "static/media/Рад.svg": "/moa/static/media/Рад.615b88213fc13cf3b34195c24a1fb4e4.svg",
+    "static/media/FontSlava.ttf": "/moa/static/media/FontSlava.c4a4e7ebcbce01b15ad8.ttf",
+    "static/media/100метрів 1.svg": "/moa/static/media/100метрів 1.ece3cc8d14d35e467396c89820955d53.svg",
+    "static/media/Точка прицілювання  1.svg": "/moa/static/media/Точка прицілювання  1.c7fd8f398d385ab47b611804465bf2ab.svg",
+    "static/media/1 рад 1.svg": "/moa/static/media/1 рад 1.3b36683dc6ea8051dc914d8583f0e279.svg",
+    "static/media/FontSlavaNum.ttf": "/moa/static/media/FontSlavaNum.04f4c0e93e182fd84287.ttf",
+    "index.html": "/moa/index.html",
+    "main.f61611a7.css.map": "/moa/static/css/main.f61611a7.css.map",
+    "main.1d78ff7d.js.map": "/moa/static/js/main.1d78ff7d.js.map",
+    "453.23f07694.chunk.js.map": "/moa/static/js/453.23f07694.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f61611a7.css",
+    "static/js/main.1d78ff7d.js"
+  ]
+}
