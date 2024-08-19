@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/moa/static/css/main.1f59a852.css",
-    "main.js": "/moa/static/js/main.1d78ff7d.js",
+    "main.css": "/moa/static/css/main.fd91c876.css",
+    "main.js": "/moa/static/js/main.034a4754.js",
     "static/js/453.23f07694.chunk.js": "/moa/static/js/453.23f07694.chunk.js",
     "static/media/Коло.svg": "/moa/static/media/Коло.fec5c8a544fceeaaa6e5e2736376f517.svg",
     "static/media/Кут.svg": "/moa/static/media/Кут.04d1ba2538e9f8c30879b0f0830966e0.svg",
@@ -13,12 +13,12 @@
     "static/media/1 рад 1.svg": "/moa/static/media/1 рад 1.3b36683dc6ea8051dc914d8583f0e279.svg",
     "static/media/FontSlavaNum.ttf": "/moa/static/media/FontSlavaNum.04f4c0e93e182fd84287.ttf",
     "index.html": "/moa/index.html",
-    "main.1f59a852.css.map": "/moa/static/css/main.1f59a852.css.map",
-    "main.1d78ff7d.js.map": "/moa/static/js/main.1d78ff7d.js.map",
+    "main.fd91c876.css.map": "/moa/static/css/main.fd91c876.css.map",
+    "main.034a4754.js.map": "/moa/static/js/main.034a4754.js.map",
     "453.23f07694.chunk.js.map": "/moa/static/js/453.23f07694.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f59a852.css",
-    "static/js/main.1d78ff7d.js"
+    "static/css/main.fd91c876.css",
+    "static/js/main.034a4754.js"
   ]
 }
